@@ -1,19 +1,19 @@
 # Titanic Random Forest Model
 
-Этот репозиторий содержит код и файлы, связанные с моим проектом по созданию модели машинного обучения для предсказания выживаемости на титанике. В основе проекта лежит использование алгоритма случайного леса из библиотеки scikit-learn. Каждая строчка кода подписана коментарием.
+This repository contains code and files related to my project to create a machine learning model to predict survival rates on the titanic. The project is based on using the random forest algorithm from the scikit-learn library. Each line of code is signed with a comment.
 
-## Описание проекта
+### Project description
 
-### Цель проекта
-Целью проекта является создание модели, способной предсказывать, выживет ли пассажир на титанике на основе различных признаков, таких как класс билета, возраст, пол и другие.
+### Project goal
+The goal of the project is to create a model capable of predicting whether a passenger on the titanic will survive based on various attributes such as ticket class, age, gender, and others.
 
-### Используемые технологии
+### Technologies used
 - Python
 - pandas
 - scikit-learn
 - Jupyter Notebook
 
-## Как использовать
+## How to use
 
-**Анализ данных**: Изучите Jupyter Notebook `RandomForestClassifier.ipynb`, чтобы понять, как проводился анализ данных и предобработка. На каждую строчку кода есть коментарий.
+**Data Analysis**: Examine Jupyter Notebook `RandomForestClassifier.ipynb` to understand how the data analysis and preprocessing was done. There is a commentary for each line of code.
 
